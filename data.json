@@ -1,0 +1,702 @@
+{
+    "Написать анализатор текстовых файлов на Java": {
+        "title": "Написать анализатор текстовых файлов на Java",
+        "responses": "1",
+        "views": "1",
+        "time": "2 минуты назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439591"
+    },
+    "Написать программу на Python": {
+        "title": "Написать программу на Python",
+        "responses": "1",
+        "views": "1",
+        "time": "5 минут назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439589"
+    },
+    "Собрать бота в PuzzleBot": {
+        "title": "Собрать бота в PuzzleBot",
+        "responses": "17",
+        "views": "17",
+        "time": "21 минуту назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439587"
+    },
+    "Сделать UI админки на React + TypeScript": {
+        "title": "Сделать UI админки на React + TypeScript",
+        "responses": "1",
+        "views": "1",
+        "time": "43 минуты назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439585"
+    },
+    "Проверка сайта на уязвимость": {
+        "title": "Проверка сайта на уязвимость",
+        "responses": "5",
+        "views": "5",
+        "time": "~ 1 час назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439583"
+    },
+    "Задание по разработке мини сайта": {
+        "title": "Задание по разработке мини сайта",
+        "responses": "14",
+        "views": "14",
+        "time": "~ 1 час назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439581"
+    },
+    "Приложение для подключения через API к Interactive Brokers": {
+        "title": "Приложение для подключения через API к Interactive Brokers",
+        "responses": "3",
+        "views": "3",
+        "time": "~ 2 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439579"
+    },
+    "Парсер  по автозапчастям": {
+        "title": "Парсер  по автозапчастям",
+        "responses": "13",
+        "views": "13",
+        "time": "~ 2 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439577"
+    },
+    "Разработать мобильное приложение для словаря": {
+        "title": "Разработать мобильное приложение для словаря",
+        "responses": "7",
+        "views": "7",
+        "time": "~ 2 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439575"
+    },
+    "Требуется консультация по вордпресс wordpress": {
+        "title": "Требуется консультация по вордпресс wordpress",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 2 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439573"
+    },
+    "Сделать доработку сайта, согласно ТЗ от сео специалиста": {
+        "title": "Сделать доработку сайта, согласно ТЗ от сео специалиста",
+        "responses": "5",
+        "views": "5",
+        "time": "~ 2 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439571"
+    },
+    "Разработать микросервис на .NET": {
+        "title": "Разработать микросервис на .NET",
+        "responses": "5",
+        "views": "5",
+        "time": "~ 2 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439569"
+    },
+    "Интеграция с ЕПГУ (Госуслуги)": {
+        "title": "Интеграция с ЕПГУ (Госуслуги)",
+        "responses": "3",
+        "views": "3",
+        "time": "~ 2 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439567"
+    },
+    "Настроить CI на Gitlab и Digital Ocean": {
+        "title": "Настроить CI на Gitlab и Digital Ocean",
+        "responses": "1",
+        "views": "1",
+        "time": "~ 2 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439565"
+    },
+    "Разработка печатной платы и программирование микроконтроллера": {
+        "title": "Разработка печатной платы и программирование микроконтроллера",
+        "responses": "5",
+        "views": "5",
+        "time": "~ 3 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439563"
+    },
+    "Настроить рекламные блоки на сайте (AdManager), провести аудит": {
+        "title": "Настроить рекламные блоки на сайте (AdManager), провести аудит",
+        "responses": "10",
+        "views": "10",
+        "time": "~ 3 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439561"
+    },
+    "Разработать приложения на базе webview": {
+        "title": "Разработать приложения на базе webview",
+        "responses": "5",
+        "views": "5",
+        "time": "~ 3 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439559"
+    },
+    "Разработка Flutter приложения": {
+        "title": "Разработка Flutter приложения",
+        "responses": "8",
+        "views": "8",
+        "time": "~ 3 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439557"
+    },
+    "Подсказать и разместить Телеграмм бота на сервере": {
+        "title": "Подсказать и разместить Телеграмм бота на сервере",
+        "responses": "9",
+        "views": "9",
+        "time": "~ 3 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439555"
+    },
+    "Нужна верстка с адаптивном": {
+        "title": "Нужна верстка с адаптивном",
+        "responses": "39",
+        "views": "39",
+        "time": "~ 3 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439553"
+    },
+    "Доработка дизайна соц.сети": {
+        "title": "Доработка дизайна соц.сети",
+        "responses": "14",
+        "views": "14",
+        "time": "~ 4 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439551"
+    },
+    "Написать 6 (шесть) ТЗ на основе брифов": {
+        "title": "Написать 6 (шесть) ТЗ на основе брифов",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 4 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439549"
+    },
+    "Верстка сайта с натяжкой на WP": {
+        "title": "Верстка сайта с натяжкой на WP",
+        "responses": "9",
+        "views": "9",
+        "time": "~ 4 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439545"
+    },
+    "Нужно поменять домен и хостинг программы": {
+        "title": "Нужно поменять домен и хостинг программы",
+        "responses": "6",
+        "views": "6",
+        "time": "~ 4 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439543"
+    },
+    "Доработать задачу в 1С:Предприятие 8.3": {
+        "title": "Доработать задачу в 1С:Предприятие 8.3",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 4 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439541"
+    },
+    "Отрисовка макета сайта Figma": {
+        "title": "Отрисовка макета сайта Figma",
+        "responses": "22",
+        "views": "22",
+        "time": "~ 4 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439539"
+    },
+    "Верстальщик с опытом. Доделать косяки в верстке + доработки (BEM,GULP,GIT)": {
+        "title": "Верстальщик с опытом. Доделать косяки в верстке + доработки (BEM,GULP,GIT)",
+        "responses": "9",
+        "views": "9",
+        "time": "~ 4 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439537"
+    },
+    "Две лабораторных по ООП (C++)": {
+        "title": "Две лабораторных по ООП (C++)",
+        "responses": "6",
+        "views": "6",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439535"
+    },
+    "Парсер данных (ингридиетнов и рецептов) с сайта": {
+        "title": "Парсер данных (ингридиетнов и рецептов) с сайта",
+        "responses": "20",
+        "views": "20",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439533"
+    },
+    "Написать модуль для приема оплат на сайте ecwid": {
+        "title": "Написать модуль для приема оплат на сайте ecwid",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439531"
+    },
+    "Починить интеграцию Битрикс с 1С": {
+        "title": "Починить интеграцию Битрикс с 1С",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439529"
+    },
+    "Подогнать имеющийся C++ код по техническую статью о методах освещения": {
+        "title": "Подогнать имеющийся C++ код по техническую статью о методах освещения",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439527"
+    },
+    "Доработать и портировать стиль на Qt5/Qt6": {
+        "title": "Доработать и портировать стиль на Qt5/Qt6",
+        "responses": "22",
+        "views": "22",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439525"
+    },
+    "Написать плагин для Xenforo": {
+        "title": "Написать плагин для Xenforo",
+        "responses": "12",
+        "views": "12",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439523"
+    },
+    "Интегрировать форму с лендинга в AmoSRM": {
+        "title": "Интегрировать форму с лендинга в AmoSRM",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439521"
+    },
+    "Доработка сайта на WordPress": {
+        "title": "Доработка сайта на WordPress",
+        "responses": "6",
+        "views": "6",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439519"
+    },
+    "Провести пентест корпоративной сети ВУЗа": {
+        "title": "Провести пентест корпоративной сети ВУЗа",
+        "responses": "1",
+        "views": "1",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439517"
+    },
+    "Бот для Binance": {
+        "title": "Бот для Binance",
+        "responses": "9",
+        "views": "9",
+        "time": "~ 5 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439515"
+    },
+    "Установить на ubuntu 1c": {
+        "title": "Установить на ubuntu 1c",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 6 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439513"
+    },
+    "Реализовать функцию на PHP скачивания страниц с товарами с сайта": {
+        "title": "Реализовать функцию на PHP скачивания страниц с товарами с сайта",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 6 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439509"
+    },
+    "Срочный перенос объявлений с авито на Юлу": {
+        "title": "Срочный перенос объявлений с авито на Юлу",
+        "responses": "4",
+        "views": "4",
+        "time": "~ 6 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439503"
+    },
+    "Верстка страницы товара интернет-магазина": {
+        "title": "Верстка страницы товара интернет-магазина",
+        "responses": "11",
+        "views": "11",
+        "time": "~ 6 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439501"
+    },
+    "Нужно написать нейросеть для распознавания картинок": {
+        "title": "Нужно написать нейросеть для распознавания картинок",
+        "responses": "7",
+        "views": "7",
+        "time": "~ 6 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439499"
+    },
+    "Сделать кроссплатформенно приложение с запросом биометрии": {
+        "title": "Сделать кроссплатформенно приложение с запросом биометрии",
+        "responses": "8",
+        "views": "8",
+        "time": "~ 6 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439495"
+    },
+    "Прила на firebase для iOS": {
+        "title": "Прила на firebase для iOS",
+        "responses": "7",
+        "views": "7",
+        "time": "~ 7 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439491"
+    },
+    "Программа": {
+        "title": "Программа",
+        "responses": "6",
+        "views": "6",
+        "time": "~ 7 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439489"
+    },
+    "Оптимизировать 1100 изображений на сайте": {
+        "title": "Оптимизировать 1100 изображений на сайте",
+        "responses": "16",
+        "views": "16",
+        "time": "~ 7 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439487"
+    },
+    "Разработать телеграм бот": {
+        "title": "Разработать телеграм бот",
+        "responses": "23",
+        "views": "23",
+        "time": "~ 7 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439485"
+    },
+    "Помощь руководителю в запуске проекта": {
+        "title": "Помощь руководителю в запуске проекта",
+        "responses": "6",
+        "views": "6",
+        "time": "20 дней назад",
+        "url": "https://freelance.habr.com/tasks/tasks/435615"
+    },
+    "Реализовать нетривиальный параллакс при скролле": {
+        "title": "Реализовать нетривиальный параллакс при скролле",
+        "responses": "1",
+        "views": "1",
+        "time": "~ 7 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439483"
+    },
+    "Python API для покупки NFT Cardano (от 10 площадок и более)": {
+        "title": "Python API для покупки NFT Cardano (от 10 площадок и более)",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 7 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439481"
+    },
+    "Сильный js программер, который способен разложить код графика на js": {
+        "title": "Сильный js программер, который способен разложить код графика на js",
+        "responses": "56",
+        "views": "56",
+        "time": "~ 7 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439479"
+    },
+    "Для игрового проекта требуется придумать 60 различных ситуаций": {
+        "title": "Для игрового проекта требуется придумать 60 различных ситуаций",
+        "responses": "6",
+        "views": "6",
+        "time": "~ 7 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439477"
+    },
+    "Доработать бренд": {
+        "title": "Доработать бренд",
+        "responses": "5",
+        "views": "5",
+        "time": "~ 8 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439475"
+    },
+    "Разработка браузерных расширений ( Chrome Extension )": {
+        "title": "Разработка браузерных расширений ( Chrome Extension )",
+        "responses": "3",
+        "views": "3",
+        "time": "6 дней назад",
+        "url": "https://freelance.habr.com/tasks/tasks/438569"
+    },
+    "Администрирование группы VK и OK": {
+        "title": "Администрирование группы VK и OK",
+        "responses": "9",
+        "views": "9",
+        "time": "~ 8 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439473"
+    },
+    "Подключение промышленного принтера EBS6600 к производственной линии": {
+        "title": "Подключение промышленного принтера EBS6600 к производственной линии",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 8 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439471"
+    },
+    "Настроить выдачу сайта в яндекс новостях, гугл новостях, гугл сёрч": {
+        "title": "Настроить выдачу сайта в яндекс новостях, гугл новостях, гугл сёрч",
+        "responses": "2",
+        "views": "2",
+        "time": "~ 8 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439467"
+    },
+    "Доперевести элементы на сайте на второй язык": {
+        "title": "Доперевести элементы на сайте на второй язык",
+        "responses": "6",
+        "views": "6",
+        "time": "~ 8 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439465"
+    },
+    "Сделать дизайн лэндинга": {
+        "title": "Сделать дизайн лэндинга",
+        "responses": "45",
+        "views": "45",
+        "time": "~ 9 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439461"
+    },
+    "Создать бот для Telegram": {
+        "title": "Создать бот для Telegram",
+        "responses": "31",
+        "views": "31",
+        "time": "~ 9 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439455"
+    },
+    "Разработка публичной части и ЛК": {
+        "title": "Разработка публичной части и ЛК",
+        "responses": "15",
+        "views": "15",
+        "time": "~ 10 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439451"
+    },
+    "Перевод сайта с русского на испанский": {
+        "title": "Перевод сайта с русского на испанский",
+        "responses": "4",
+        "views": "4",
+        "time": "~ 10 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439449"
+    },
+    "Сборка и настройка Docker файла с сервисами": {
+        "title": "Сборка и настройка Docker файла с сервисами",
+        "responses": "1",
+        "views": "1",
+        "time": "~ 10 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439447"
+    },
+    "Доработать 3 мобильных приложения на Swift, iOS": {
+        "title": "Доработать 3 мобильных приложения на Swift, iOS",
+        "responses": "6",
+        "views": "6",
+        "time": "5 дней назад",
+        "url": "https://freelance.habr.com/tasks/tasks/438593"
+    },
+    "Написать десктопнное ПО для windows": {
+        "title": "Написать десктопнное ПО для windows",
+        "responses": "17",
+        "views": "17",
+        "time": "~ 11 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439437"
+    },
+    "Расширение для браузера CHROME": {
+        "title": "Расширение для браузера CHROME",
+        "responses": "4",
+        "views": "4",
+        "time": "~ 11 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439435"
+    },
+    "Корректное отображение pdf - файлов на сайте 1C Birtix": {
+        "title": "Корректное отображение pdf - файлов на сайте 1C Birtix",
+        "responses": "4",
+        "views": "4",
+        "time": "~ 12 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439433"
+    },
+    "Доработка структуры вывода каталога на Angular": {
+        "title": "Доработка структуры вывода каталога на Angular",
+        "responses": "7",
+        "views": "7",
+        "time": "~ 12 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439431"
+    },
+    "Сделать копию сайта под новый регион": {
+        "title": "Сделать копию сайта под новый регион",
+        "responses": "9",
+        "views": "9",
+        "time": "~ 13 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439425"
+    },
+    "Изменить карту под себя один в один": {
+        "title": "Изменить карту под себя один в один",
+        "responses": "3",
+        "views": "3",
+        "time": "~ 15 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439423"
+    },
+    "Написание статей по подходящей теме": {
+        "title": "Написание статей по подходящей теме",
+        "responses": "8",
+        "views": "8",
+        "time": "~ 15 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439421"
+    },
+    "Вставка фотографий в PhotoShop шаблон": {
+        "title": "Вставка фотографий в PhotoShop шаблон",
+        "responses": "23",
+        "views": "23",
+        "time": "~ 15 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439419"
+    },
+    "Соединить PIC32 и ПК по Ethernet TCP/IP": {
+        "title": "Соединить PIC32 и ПК по Ethernet TCP/IP",
+        "responses": "3",
+        "views": "3",
+        "time": "~ 19 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439417"
+    },
+    "Golang daemon (Hashicorp Vault integration)": {
+        "title": "Golang daemon (Hashicorp Vault integration)",
+        "responses": "3",
+        "views": "3",
+        "time": "~ 19 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439415"
+    },
+    "Parser instagram (golang)": {
+        "title": "Parser instagram (golang)",
+        "responses": "8",
+        "views": "8",
+        "time": "~ 20 часов назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439413"
+    },
+    "Cкрипт для дублирования нажатия клавиш и мыши в несколько окон игры": {
+        "title": "Cкрипт для дублирования нажатия клавиш и мыши в несколько окон игры",
+        "responses": "5",
+        "views": "5",
+        "time": "~ 21 час назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439409"
+    },
+    "Разработка iOS-приложения": {
+        "title": "Разработка iOS-приложения",
+        "responses": "5",
+        "views": "5",
+        "time": "~ 22 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439405"
+    },
+    "Разработать Android приложение (audio player)": {
+        "title": "Разработать Android приложение (audio player)",
+        "responses": "7",
+        "views": "7",
+        "time": "~ 22 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439401"
+    },
+    "Разработка P2P платежного шлюза": {
+        "title": "Разработка P2P платежного шлюза",
+        "responses": "4",
+        "views": "4",
+        "time": "~ 22 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439399"
+    },
+    "Нужен UX/UI дизайн сайта": {
+        "title": "Нужен UX/UI дизайн сайта",
+        "responses": "47",
+        "views": "47",
+        "time": "~ 22 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439397"
+    },
+    "Электронная ведомость по ИБП": {
+        "title": "Электронная ведомость по ИБП",
+        "responses": "5",
+        "views": "5",
+        "time": "~ 23 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439395"
+    },
+    "Добавить новый экран техподдержка в мобильное приложение Flutter": {
+        "title": "Добавить новый экран техподдержка в мобильное приложение Flutter",
+        "responses": "10",
+        "views": "10",
+        "time": "~ 23 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439393"
+    },
+    "Разработать модуль подключения по RCON на Laravel": {
+        "title": "Разработать модуль подключения по RCON на Laravel",
+        "responses": "5",
+        "views": "5",
+        "time": "~ 23 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439389"
+    },
+    "Нужно переделать сайт на Битрикс": {
+        "title": "Нужно переделать сайт на Битрикс",
+        "responses": "12",
+        "views": "12",
+        "time": "~ 23 часа назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439387"
+    },
+    "Консультация и разработка стратегии продвижения на авито": {
+        "title": "Консультация и разработка стратегии продвижения на авито",
+        "responses": "4",
+        "views": "4",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439383"
+    },
+    "Консультация по авторизации с ЕСИА": {
+        "title": "Консультация по авторизации с ЕСИА",
+        "responses": "1",
+        "views": "1",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439381"
+    },
+    "Выполнить верстку по готовым макетам (Figma)": {
+        "title": "Выполнить верстку по готовым макетам (Figma)",
+        "responses": "43",
+        "views": "43",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439377"
+    },
+    "Анимированные CSS иконки": {
+        "title": "Анимированные CSS иконки",
+        "responses": "12",
+        "views": "12",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439375"
+    },
+    "Отрисовать дизайн сайта по прототипу": {
+        "title": "Отрисовать дизайн сайта по прототипу",
+        "responses": "64",
+        "views": "64",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439373"
+    },
+    "Добавить блок с объектами на страницы услуг (Joomla)": {
+        "title": "Добавить блок с объектами на страницы услуг (Joomla)",
+        "responses": "7",
+        "views": "7",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439371"
+    },
+    "Разработка новых разделов и функционала на WordPress": {
+        "title": "Разработка новых разделов и функционала на WordPress",
+        "responses": "9",
+        "views": "9",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439369"
+    },
+    "Доработка проекта на Vue.js (SPA)": {
+        "title": "Доработка проекта на Vue.js (SPA)",
+        "responses": "22",
+        "views": "22",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439367"
+    },
+    "Перевод кода (или написание с нуля на HTML5) с SWF в HTML5": {
+        "title": "Перевод кода (или написание с нуля на HTML5) с SWF в HTML5",
+        "responses": "6",
+        "views": "6",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439363"
+    },
+    "Инвайтерт подписчиков Telegram": {
+        "title": "Инвайтерт подписчиков Telegram",
+        "responses": "4",
+        "views": "4",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439365"
+    },
+    "Настроить api Facebook с нашими клиентами": {
+        "title": "Настроить api Facebook с нашими клиентами",
+        "responses": "3",
+        "views": "3",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439361"
+    },
+    "Решить пару проблем с приложениями SmartTV": {
+        "title": "Решить пару проблем с приложениями SmartTV",
+        "responses": "36",
+        "views": "36",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439357"
+    },
+    "Разработка клиентского приложения на Котлин": {
+        "title": "Разработка клиентского приложения на Котлин",
+        "responses": "5",
+        "views": "5",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439353"
+    },
+    "Настройка и ведение контекстной рекламы Яндекс Директ": {
+        "title": "Настройка и ведение контекстной рекламы Яндекс Директ",
+        "responses": "9",
+        "views": "9",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439351"
+    },
+    "Доработка интерфейса управления ТП в masterscada 3.x": {
+        "title": "Доработка интерфейса управления ТП в masterscada 3.x",
+        "responses": "10",
+        "views": "10",
+        "time": "1 день назад",
+        "url": "https://freelance.habr.com/tasks/tasks/439349"
+    }
+}
